@@ -1,0 +1,95 @@
+_repo: Discourse-on-the-Method-of-Rightly-Conducting-One-s-Reason-and-of-Seeking-Truth-in-the-Sciences_59
+_version: 0.0.1
+alternative_title: Discours de la méthode. English
+contributor:
+  translator:
+    agent_name: Veitch, John
+    birthdate: 1829
+    deathdate: 1894
+    gutenberg_agent_id: '1479'
+    url: http://www.gutenberg.org/2009/agents/1479
+    wikipedia: http://en.wikipedia.org/wiki/John_Veitch
+creator:
+  author:
+    agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia: http://en.wikipedia.org/wiki/René_Descartes
+description: "The Discourse on the Method (French: Discours de la méthode) is a philosophical\
+  \ and autobiographical treatise published by René Descartes in 1637. Its full name\
+  \ is Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth\
+  \ in the Sciences (French title: Discours de la méthode pour bien conduire sa raison,\
+  \ et chercher la vérité dans les sciences). The Discourse on The Method is best\
+  \ known as the source of the famous quotation \"Je pense, donc je suis\" (\"I think,\
+  \ therefore I am\"), which occurs in Part IV of the work. (The similar statement\
+  \ in Latin, Cogito ergo sum, is found in Part I, §7 of Principles of Philosophy.)\n\
+  The Discourse on the Method is one of the most influential works in the history\
+  \ of modern philosophy, and important to the development of natural sciences. In\
+  \ this work, Descartes tackles the problem of skepticism, which had previously been\
+  \ studied by Sextus Empiricus, Al-Ghazali and Michel de Montaigne. Descartes modified\
+  \ it to account for a truth he found to be incontrovertible. Descartes started his\
+  \ line of reasoning by doubting everything, so as to assess the world from a fresh\
+  \ perspective, clear of any preconceived notions.\nThe book was originally published\
+  \ in Leiden in the Netherlands. Later, it was translated into Latin and published\
+  \ in 1656 in Amsterdam. The book was intended as an introduction to three works\
+  \ Dioptrique, Météores and Géométrie. La Géométrie contains Descartes' first introduction\
+  \ of the Cartesian coordinate system. That the text was written and published in\
+  \ French rather than Latin, which was the language in which philosophical and scientific\
+  \ texts were most frequently written and published (as were most of Descartes' other\
+  \ works), is worth noting.\nTogether with Meditations on First Philosophy (Meditationes\
+  \ de Prima Philosophia), Principles of Philosophy (Principia philosophiae) and Rules\
+  \ for the Direction of the Mind (Regulae ad directionem ingenii), it forms the base\
+  \ of the epistemology known as Cartesianism.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Philosophy
+- Harvard Classics
+gutenberg_issued: '1993-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59'
+  wikidata: Q731224
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Science -- Methodology'
+- !lcsh 'Methodology'
+- GITenberg
+title: Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth
+  in the Sciences
+url: http://www.gutenberg.org/ebooks/59
+wikipedia:
+- https://fi.wikipedia.org/wiki/Metodin_esitys
+- https://fa.wikipedia.org/wiki/%DA%AF%D9%81%D8%AA%D8%A7%D8%B1_%D8%AF%D8%B1_%D8%B1%D9%88%D8%B4
+- https://en.wikisource.org/wiki/Discourse_on_the_Method
+- https://commons.wikimedia.org/wiki/Category:Discours_de_la_m%C3%A9thode
+- https://gl.wikipedia.org/wiki/Discurso_do_m%C3%A9todo
+- https://ja.wikipedia.org/wiki/%E6%96%B9%E6%B3%95%E5%BA%8F%E8%AA%AC
+- https://pt.wikipedia.org/wiki/Discurso_sobre_o_M%C3%A9todo
+- https://es.wikipedia.org/wiki/Discurso_del_m%C3%A9todo
+- https://en.wikipedia.org/wiki/Discourse_on_the_Method
+- https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B5
+- https://ko.wikipedia.org/wiki/%EB%B0%A9%EB%B2%95%EC%84%9C%EC%84%A4
+- https://fr.wikipedia.org/wiki/Discours_de_la_m%C3%A9thode
+- https://zh.wikipedia.org/wiki/%E8%AB%87%E8%AB%87%E6%96%B9%E6%B3%95
+- https://wa.wikipedia.org/wiki/Discours_de_la_m%C3%A9thode_(live)
+- https://pl.wikipedia.org/wiki/Rozprawa_o_metodzie
+- https://es.wikisource.org/wiki/Discurso_del_m%C3%A9todo
+- https://is.wikipedia.org/wiki/Or%C3%B0r%C3%A6%C3%B0a_um_a%C3%B0fer%C3%B0
+- https://pcd.wikipedia.org/wiki/Discours_de_la_m%C3%A9thode
+- https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D9%84_%D8%B9%D9%86_%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC
+- https://nl.wikipedia.org/wiki/Verhandeling_over_de_methode
+- https://id.wikipedia.org/wiki/Discourse_on_the_Method
+- https://sl.wikipedia.org/wiki/Razprava_o_metodi
+- https://cs.wikipedia.org/wiki/Rozprava_o_metod%C4%9B
+- https://oc.wikipedia.org/wiki/Discors_del_Met%C3%B2de
+- https://de.wikipedia.org/wiki/Discours_de_la_m%C3%A9thode
+- https://en.wikiquote.org/wiki/Discourse_on_the_Method
+- https://it.wikipedia.org/wiki/Discorso_sul_metodo
+- https://ca.wikipedia.org/wiki/Discurs_del_m%C3%A8tode
+- https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%9E%D7%A8_%D7%A2%D7%9C_%D7%94%D7%9E%D7%AA%D7%95%D7%93%D7%94
