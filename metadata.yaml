@@ -1,5 +1,5 @@
 _repo: Discourse-on-the-Method-of-Rightly-Conducting-One-s-Reason-and-of-Seeking-Truth-in-the-Sciences_59
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Discours de la méthode. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1479'
     url: http://www.gutenberg.org/2009/agents/1479
     wikipedia: http://en.wikipedia.org/wiki/John_Veitch
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Descartes, René
@@ -43,6 +46,8 @@ description: "The Discourse on the Method (French: Discours de la méthode) is a
   \ de Prima Philosophia), Principles of Philosophy (Principia philosophiae) and Rules\
   \ for the Direction of the Mind (Regulae ad directionem ingenii), it forms the base\
   \ of the epistemology known as Cartesianism.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59#Discourse-on-the-Method-of-Rightly-Conducting-One-s-Reason-and-of-Seeking-Truth-in-the-Sciences
 gutenberg_bookshelf:
 - Philosophy
 - Harvard Classics
